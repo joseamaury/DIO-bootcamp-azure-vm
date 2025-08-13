@@ -22,7 +22,7 @@ Criar e configurar uma **Máquina Virtual (VM)** no **Microsoft Azure**, testar 
 ## 🖼️ Evidências (prints)
 
 - Creating a Virtual Machine  
-  ![Creating a Virtual Machine](images/Capture1.jpg)
+  ![Creating a Virtual Machine](images/Capture1.JPG)
 
   - Setup a Virtual Machine  
   ![Setup a Virtual Machine](images/Capture2.jpg)
