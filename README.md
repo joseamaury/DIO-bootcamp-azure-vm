@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+
+
 # DIO-bootcamp-azure-vm
 Desafio DIO: criação de VM Windows no Azure + documentação com prints
 =======
@@ -59,4 +60,4 @@ Criar e configurar uma **Máquina Virtual (VM)** no **Microsoft Azure**, testar 
 GitHub: https://github.com/joseamaury
 
 > 📌 *Este repositório é parte do desafio prático da DIO. 
->>>>>>> 25d4b52 (Editando README.md e adicionando imagens)
+
