@@ -12,6 +12,14 @@ Desafio DIO: criação de VM Windows no Azure + documentação com prints
 ## 🎯 Objetivo
 Criar e configurar uma **Máquina Virtual (VM)** no **Microsoft Azure**, testar o acesso remoto e **documentar o processo** neste repositório para avaliação do desafio.
 
+
+## 🖥️Tecnologias utilizadas
+- Azure Portal
+- Windows Server 2022
+- Git
+- GitHub
+- 
+
 ## 🧩 Ambiente Utilizado
 - **Azure Portal**: https://portal.azure.com
 - **Sistema Operacional da VM**: *Windows Server 2022 Datacenter* 
@@ -52,6 +60,11 @@ Criar e configurar uma **Máquina Virtual (VM)** no **Microsoft Azure**, testar 
 - Acesso remoto via RDP
 - Documentação técnica com **Markdown** e **GitHub**
 - Boas práticas de **gestão de custos** no Azure
+
+
+## 🔗 Links Úteis
+
+- [Criar uma Máquina Virtual do Windows no Azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal) 💻
 
 ---
 
